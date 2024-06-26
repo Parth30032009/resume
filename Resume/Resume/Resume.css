@@ -1,0 +1,54 @@
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/015/132/071/small/abstract-the-cyan-background-for-design-hd-wallpaper-free-vector-free-photo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#name{
+  width: 100%;
+  display: block;
+}
+#address{
+  display: flexbox;
+  width: 50%;
+}
+#street,#colony,#district{
+  display:block;
+}
+#email{
+  display: inline;
+}
+
+
+#header {
+  text-align: center;
+}
+
+
+
+.para {
+  background-color: brown;
+  margin: 20px 0px;
+  border: 7px solid brown;
+  font-weight: 900;
+}
+#goal {
+  
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  
+}
+table {
+  margin: 0px auto;
+  border: 5px solid black;
+  border-style: solid;
+  position: relative;
+  bottom: 15px;
+  border-collapse: collapse;
+}
+th,td{
+  border: 5px solid black;
+}
+
+
+#exp {
+  word-spacing: 10px;
+}
